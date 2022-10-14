@@ -1,5 +1,6 @@
 {
-  "name": "thresholding",
+  "name": "ts_next_tailwind_netlifycms",
+  "description": "Starter template for TypeScript, NextJS, TailwindCSS and Netlify-CMS",
   "version": "0.1.0",
   "private": true,
   "scripts": {
